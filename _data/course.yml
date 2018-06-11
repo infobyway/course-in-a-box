@@ -1,6 +1,6 @@
 title: ConnectedLib Test
 description: Testing Course-in-a-Box for ConnectedLib
-modules: [introduction, tutorial, resources, references]
+modules: [introduction]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
