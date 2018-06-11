@@ -1,5 +1,5 @@
-title: Course in a Box
-description: Build Your Very Own Open Course
+title: ConnectedLib Test
+description: Testing Course-in-a-Box for ConnectedLib
 modules: [tutorial, resources, references]
 signups:
  - name: Geert Hofman
