@@ -2,8 +2,9 @@
 baseurl: /connectedlib
 markdown: kramdown
 permalink: /:categories/:title/
+remote_theme: macrod68/jekyll-materialize-starter-template
 
-# Change this tracking code with your own tracking code
+# Change this tracking code with your own tracking code [haven't done this yet - Kelly]
 ga_tracking_code: UA-5757664-19
 # Please leave this code here for us to see how Course in a Box get used
 p2pu_ga_tracking_code: UA-55722824-1
