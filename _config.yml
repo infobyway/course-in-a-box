@@ -2,7 +2,7 @@
 baseurl: /connectedlib
 markdown: kramdown
 permalink: /:categories/:title/
-remote_theme: macrod68/jekyll-materialize-starter-template
+theme: dinky
 
 # Change this tracking code with your own tracking code [haven't done this yet - Kelly]
 ga_tracking_code: UA-5757664-19
